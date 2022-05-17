@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Win32_TCC",
+            "includePath": ["C:/tcc/include"],
+            "compilerPath": "C:/tcc/tcc",
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "${default}"
+        }
+    ],
+    "version": 4
+}
